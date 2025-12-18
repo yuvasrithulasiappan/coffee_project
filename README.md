@@ -1,3 +1,4 @@
+![coffee_image](https://github.com/user-attachments/assets/21bc62a0-9b8c-4396-98a7-c6eb8ce6b9dc)
 <img width="1280" height="720" alt="Background Image" src="https://github.com/user-attachments/assets/4ddf814b-4ab0-4720-a6b3-30a89a643ae2" />
 ☕ Coffee Shop Sales Analysis – Power BI Project
 This project focuses on analyzing coffee shop sales data using Power BI to uncover sales trends, customer behavior, and store performance. Interactive dashboards and KPIs are designed to support data-driven business decisions.
