@@ -1,7 +1,4 @@
 <img width="1280" height="720" alt="Background Image" src="https://github.com/user-attachments/assets/4ddf814b-4ab0-4720-a6b3-30a89a643ae2" />
-![charts requirement ](https://github.com/user-attachments/assets/b6ef6f09-ea35-4986-838c-f8945371be7f)
-![chart requirement](https://github.com/user-attachments/assets/4431c5a5-2495-42cc-a8de-a39a384edc89)
-![KPI Requirement ](https://github.com/user-attachments/assets/89476fe5-f9ee-4a70-96f0-c18bc65f1f92)
 ![coffee_image](https://github.com/user-attachments/assets/d166d6ba-329d-4fb6-890f-66ae8633623e)
 ☕ Coffee Shop Sales Analysis – Power BI Project
 
